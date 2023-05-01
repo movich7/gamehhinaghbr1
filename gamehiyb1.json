@@ -2,9 +2,12 @@ bannerIDBegin      bannerIDLast
 interstitialIDBegin            interstitialIDLast
 rewardIDBegin           rewardIDlast
 
-FANbannerIDBegin             FANbannerIDLast
-FANinterstitialIDBegin        FANinterstitialIDLast
-FANrewardIDBegin        FANrewardIDLast
+
+
+FANbannerIDBegin186315260956418_186315727623038FANbannerIDLast
+FANinterstitialIDBegin186315260956418_186315587623052FANinterstitialIDLast
+FANrewardIDBegin186315260956418_186316330956311FANrewardIDLast
+
 
 UnityAppIdIDBegin    UnityAppIdIDLast
 unitybannerIDBegin                   unitybannerIDLast
@@ -12,10 +15,12 @@ unityinterstitialIDBegin     unityinterstitialIDLast
 unityrewardIDBegin            unityrewardIDLast	
 
 
+
 AplovinsdkIDBeginyyyyyyyyyyyyyyAplovinsdkIDLast
 AplovinbannerIDBegin      AplovinbannerIDLast
 AplovininterstitialIDBeginccccccccccccccccccAplovininterstitialIDLast
 AplovinrewardIDBeginccccccccccccccccccccccccAplovinrewardIDLast	
+
 
 
 irssdkIDBegin199870465irssdkIDLast
