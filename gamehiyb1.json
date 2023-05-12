@@ -1,13 +1,7 @@
-bannerIDBegin      bannerIDLast
-interstitialIDBegin            interstitialIDLast
-rewardIDBegin           rewardIDlast
-
-
-
-FANbannerIDBegin186315260956418_186315727623038FANbannerIDLast
-FANinterstitialIDBegin186315260956418_186315587623052FANinterstitialIDLast
-FANrewardIDBegin186315260956418_186316330956311FANrewardIDLast
-
+irssdkIDBegin199870465irssdkIDLast
+irsbannerIDBeginDefaultBannerirsbannerIDLast
+irsinterstitialIDBeginDefaultInterstitialirsinterstitialIDLast
+irsrewardIDBeginDefaultRewardedVideoirsrewardIDLast
 
 UnityAppIdIDBegin5272029UnityAppIdIDLast
 unitybannerIDBegin                   unitybannerIDLast
@@ -15,15 +9,17 @@ unityinterstitialIDBeginInterstitial_AndroidunityinterstitialIDLast
 unityrewardIDBeginBanner_AndroidunityrewardIDLast	
 
 
+FANbannerIDBegin186315260956418_186315727623038FANbannerIDLast
+FANinterstitialIDBegin186315260956418_186315587623052FANinterstitialIDLast
+FANrewardIDBegin186315260956418_186316330956311FANrewardIDLast
+
+
+bannerIDBegin      bannerIDLast
+interstitialIDBegin            interstitialIDLast
+rewardIDBegin           rewardIDlast
+
 
 AplovinsdkIDBegin90utOTS_W3di3veBLFz4VQC1ToP_XGQcoXuCiONMX81lgHh_TWKuD-GebSbTnUaqVGzEEbFpITF0oNacyH0lfpAplovinsdkIDLast
 AplovinbannerIDBeginccccccccccccccccccccccccAplovinbannerIDLast
 AplovininterstitialIDBeginccccccccccccccccccAplovininterstitialIDLast
 AplovinrewardIDBeginccccccccccccccccccccccccAplovinrewardIDLast	
-
-
-
-irssdkIDBegin199870465irssdkIDLast
-irsbannerIDBeginDefaultBannerirsbannerIDLast
-irsinterstitialIDBeginDefaultInterstitialirsinterstitialIDLast
-irsrewardIDBeginDefaultRewardedVideoirsrewardIDLast
