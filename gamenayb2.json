@@ -1,7 +1,7 @@
 irssdkIDBegin   irssdkIDLast
-irsbannerIDBeginDefaultBannerirsbannerIDLast
-irsinterstitialIDBeginDefaultInterstitialirsinterstitialIDLast
-irsrewardIDBeginDefaultRewardedVideoirsrewardIDLast
+irsbannerIDBegin  irsbannerIDLast
+irsinterstitialIDBegin irsinterstitialIDLast
+irsrewardIDBegin  irsrewardIDLast
 
 UnityAppIdIDBegin5316765UnityAppIdIDLast
 unitybannerIDBegin     unitybannerIDLast
